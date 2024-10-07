@@ -18,7 +18,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: 'Mars Habitat At Berkeley',
-  description: 'React Next JS app',
+  description: '',
 };
 
 export default function RootLayout({
