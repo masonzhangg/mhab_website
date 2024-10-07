@@ -11,16 +11,16 @@ const Header: React.FC = () => {
                 </div>
                 <ul className="flex flex-col items-end space-y-4 mt-3 mr-[-20px] font-geist text-lg text-white-700">
                     <li>
-                        <Link href="/" className="text-white-700 hover:text-white-900 visited:text-white-700">Home</Link>
+                        <Link href="/" className="text-white hover:text-white visited:text-white">Home</Link>
                     </li>
                     <li>
-                        <Link href="#about" className="text-white-700 hover:text-white-900 visited:text-white-700">About</Link>
+                        <Link href="#about" className="text-white hover:text-white visited:text-white">About</Link>
                     </li>
                     <li>
-                        <Link href="#team" className="text-white-700 hover:text-white-900 visited:text-white-700">Team</Link>
+                        <Link href="#team" className="text-white hover:text-white visited:text-white">Team</Link>
                     </li>
                     <li>
-                        <Link href="#join-us" className="text-white-700 hover:text-white-900 visited:text-white-700">Join Us</Link>
+                        <Link href="#join-us" className="text-white hover:text-white visited:text-white">Join Us</Link>
                     </li>
                 </ul>
             </nav>
