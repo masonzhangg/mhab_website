@@ -9,7 +9,7 @@ const Header: React.FC = () => {
                         <img src="../images/icon.png" alt="Logo" className="h-12 w-auto" />
                     </a>
                 </div>
-                <ul className="flex flex-col items-end space-y-4 mt-3 mr-[-20px] font-geist text-lg">
+                <ul className="flex flex-col items-end space-y-4 mt-3 mr-[-20px] font-geist text-lg text-white-700">
                     <li>
                         <Link href="/" className="text-white-700 hover:text-white-900 visited:text-white-700">Home</Link>
                     </li>
