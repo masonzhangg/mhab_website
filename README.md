@@ -1,2 +1,2 @@
-# MHAB_Website
-MHAB Team's Website
+#Mars Habitat At Berkeley Website
+built in one day :)
